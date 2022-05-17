@@ -1,0 +1,64 @@
+.Header {
+    width:100%;
+    height: 150px;
+    background-color: greenyellow;
+}
+
+#title {
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+    font-style: bold;
+    padding-bottom: 5px;
+}
+
+#first-line {
+    padding-top: 40px;
+}
+
+#logo {
+    float: left;
+    margin-left: 550px;
+}
+
+#menu {
+    padding-left: 520px;
+}
+
+.menu-bar {
+    padding-left: 10px;
+}
+
+.sidebar {
+    background-color: rgb(18, 189, 18);
+    width:20%;
+    min-height:600px;
+    float:left;
+}
+
+.main-content {
+    background-color: green;
+    width:80%;
+    min-height: 600px;
+    float:right;
+}
+
+.footer-bottom {
+    background-color: gray;
+    min-width:100%;
+    min-height:100px;
+}
+
+.menu-bar {
+    float: left;
+    
+}
+
+#next {
+    padding-left: 220px;
+    font-size: 20px;
+}
+
+#form {
+    padding-left: 50px;
+    padding-top: 20px;
+}
